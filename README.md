@@ -1,5 +1,8 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
+# Name:PARTHASARATHY J 
+# REGISTER NUMBER:25019024
+
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
@@ -49,6 +52,12 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+
+**CALCULATION**
+
+
+
+<img width="402" height="797" alt="Screenshot 2025-12-26 222049" src="https://github.com/user-attachments/assets/8af95654-e329-4d09-845d-4dd52dc61ee8" />
 
 
 **PROCEDURE:**
